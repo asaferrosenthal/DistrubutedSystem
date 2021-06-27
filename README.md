@@ -1,5 +1,4 @@
 # DistrubutedSystem
-Aaron Safer-Rosenthal | 17asr | 20068164
 
 Code is contained in folder 'Code'
 
@@ -9,6 +8,4 @@ Outputs are contained in folder 'Out'
 - For frame size 7, outputs contained in folder 'Out7'
 (Each file's output is Out<n>_<File_Name>.txt', n being the frame size)
 
-For "Take note of the number of faults per server and per client (reference string) for
-each value of F."
---> It is the last lines of the output for each server, respectively
+For this project, each student was asked to realize an interprocess/interthread communication mechanism using Java Sockets and RMI to allow different processes/threads to communicate over a TCP/IP network.  The project also looked to compare 3 different page replacements algorithms, FIFO, LFU and MFU, on a particular computer server. Two clients would make request pages from a given server, which would either send it back (if it’s in its memory) or otherwise, a page fault occurs and the server requests the central server to swap in the missing page from the HDD. 
