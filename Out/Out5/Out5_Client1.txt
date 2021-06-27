@@ -1,0 +1,347 @@
+
+asafe@LAPTOP-PPOKM2HQ MINGW64 /C/users/asafe/Documents/work/CISC 324/Lab6_17asr_20068164/Code
+$ java Client1
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 4
+Client 1> Waiting for the page ...
+Client 1> Page 4 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 4
+Client 1> Waiting for the page ...
+Client 1> Page 4 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 4
+Client 1> Waiting for the page ...
+Client 1> Page 4 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 6
+Client 1> Waiting for the page ...
+Client 1> Page 6 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 6
+Client 1> Waiting for the page ...
+Client 1> Page 6 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 6
+Client 1> Waiting for the page ...
+Client 1> Page 6 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 3
+Client 1> Waiting for the page ...
+Client 1> Page 3 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 5
+Client 1> Waiting for the page ...
+Client 1> Page 5 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 1
+Client 1> Waiting for the page ...
+Client 1> Page 1 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 7
+Client 1> Waiting for the page ...
+Client 1> Page 7 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 0
+Client 1> Waiting for the page ...
+Client 1> Page 0 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connection established with client 2.
+Client 1> Received token from client 2.
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from FIFO server
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from LFU server
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: 2
+Client 1> Waiting for the page ...
+Client 1> Page 2 received from MFU server
+Client 1> Connected to client 2 on port: 12345
+Client 1> Sending token to client 2
+Client 1> Waiting for connection from client 2 ...
+Client 1> Connected to FIFOserver on port: 12347
+Client 1> Requesting page number: -1
+Client 1> Connected to LFUserver on port: 12348
+Client 1> Requesting page number: -1
+Client 1> Connected to MFUserver on port: 12349
+Client 1> Requesting page number: -1

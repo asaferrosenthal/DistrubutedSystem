@@ -1,0 +1,218 @@
+
+asafe@LAPTOP-PPOKM2HQ MINGW64 /C/users/asafe/Documents/work/CISC 324/Lab6_17asr_20068164/Code
+$ java LFU_Server
+Server[LFU]> Waiting for connection from client 1 ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7]
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3]
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3|0]
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3|0|1]
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3|0|1|4]
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [7|3|0|1|4|2|6]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|5]
+Server[LFU]> Sending response ...
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 2
+Server[LFU]> Connection established from client 2
+Server[LFU]> received request from client 2
+Server[LFU]> Current RAM: [3|0|1|4|2|6|7]
+Server[LFU]> Sending response ...
+Server[LFU]> Waiting for connection from client 1
+Server[LFU]> Connection established from client 1
+Server[LFU]> received request from client 1
+Server[LFU]> on 20 references from client 1, got 5 page faults
+Server[LFU]> on 20 references from client 2, got 4 page faults
+Server[LFU]> on 40 references from client 2, got 9 page faults

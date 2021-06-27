@@ -1,0 +1,54 @@
+
+asafe@LAPTOP-PPOKM2HQ MINGW64 /C/users/asafe/Documents/work/CISC 324/Lab6_17asr_20068164/Code
+$ java Central_Server
+Central> Starting up ...
+Central> Ready ...
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server
+Central> Page swapped in and send to requesting server

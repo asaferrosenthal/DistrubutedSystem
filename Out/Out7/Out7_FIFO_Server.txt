@@ -1,0 +1,218 @@
+
+asafe@LAPTOP-PPOKM2HQ MINGW64 /C/users/asafe/Documents/work/CISC 324/Lab6_17asr_20068164/Code
+$ java FIFO_Server
+Server[FIFO]> Waiting for connection from client 1 ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7]
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3]
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3|0]
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3|0|1]
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3|0|1|4]
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [7|3|0|1|4|2|6]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [3|0|1|4|2|6|5]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 2
+Server[FIFO]> Connection established from client 2
+Server[FIFO]> received request from client 2
+Server[FIFO]> Current RAM: [0|1|4|2|6|5|7]
+Server[FIFO]> Sending response ...
+Server[FIFO]> Waiting for connection from client 1
+Server[FIFO]> Connection established from client 1
+Server[FIFO]> received request from client 1
+Server[FIFO]> on 20 references from client 1, got 5 page faults
+Server[FIFO]> on 20 references from client 2, got 4 page faults
+Server[FIFO]> on 40 references from client 2, got 9 page faults
